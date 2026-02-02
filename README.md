@@ -1,1 +1,1 @@
-# *T*otal-evidence *R*esolution and *I*ntegration *A*lgorithm for *G*rafting *E*volution (*TRIAGE*)
+# *T*otal-evidence *R*outing and *I*ntegration *A*rchitecture for *G*rafting *E*volution (*TRIAGE*)
